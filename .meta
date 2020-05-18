@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "chronicler_api": "git@github.com:you/chronicler_api.git",
+    "chronicler-ui": "git@github.com:you/chronicler-ui.git"
+  }
+}
