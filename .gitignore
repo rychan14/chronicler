@@ -1,4 +1,4 @@
 /chronicler_api/
 /chronicler-ui/
 
-/node_modules/
+.vscode

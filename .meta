@@ -1,6 +1,7 @@
 {
   "projects": {
     "chronicler_api": "git@github.com:rychan14/chronicler_api.git",
-    "chronicler-ui": "git@github.com:rychan14/chronicler-ui.git"
+    "chronicler-ui": "git@github.com:rychan14/chronicler-ui.git",
+    "pensieve": "git@github.com:rychan14/pensieve.git"
   }
 }
